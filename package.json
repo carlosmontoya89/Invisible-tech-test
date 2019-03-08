@@ -1,0 +1,23 @@
+{
+  "name": "invisible-tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosmontoya89/Invisible-tech-test.git"
+  },
+  "author": "Carlos Montoya Restrepo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosmontoya89/Invisible-tech-test/issues"
+  },
+  "homepage": "https://github.com/carlosmontoya89/Invisible-tech-test#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^13.2.2"
+  }
+}
